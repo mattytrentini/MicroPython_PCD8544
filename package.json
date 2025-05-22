@@ -1,0 +1,9 @@
+{
+  "urls": [
+    ["PCD8544.py", "github:mcauser/MicroPython_PCD8544/PCD8544.py"],
+    ["bmp.py", "github:mcauser/MicroPython_PCD8544/bmp.py"],
+    ["lcd_gfx.py", "github:mcauser/MicroPython_PCD8544/lcd_gfx.py"]
+  ],
+  "version": "1.0.0",
+  "deps": []
+}
